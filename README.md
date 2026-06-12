@@ -2,9 +2,9 @@
 
 ## Data Analyst
 
-Passionate about transforming raw data into actionable business insights through analytics, visualization, and machine learning.
+B.Com (Hons) graduate transitioning into Data Analytics with experience in Finance, Marketing Analytics, Business Intelligence, and Data Visualization.
 
-## Skills
+### Technical Skills
 
 - SQL
 - Power BI
@@ -14,38 +14,27 @@ Passionate about transforming raw data into actionable business insights through
 - Excel
 - Google Analytics
 
-## Certifications
+### Analytics Experience
 
 - Google Data Analytics Professional Certificate
+- Tata GenAI Data Analytics Simulation
+- Deloitte Data Analytics Simulation
+- Quantium Data Analytics Simulation
 - Microsoft SQL Certification
-- Deloitte Data Analytics Job Simulation
-- Quantium Data Analytics Job Simulation
-- Tata GenAI Powered Data Analytics Simulation
 
-## Current Focus
+### Current Focus
 
-- Data Analytics
 - Business Analytics
-- Power BI Dashboarding
-- SQL Projects
+- Dashboard Development
+- SQL Analytics Projects
+- Power BI Reporting
 - Machine Learning
 
-## Connect With Me
+### Portfolio Projects
+
+🚧 Projects currently being optimized and uploaded.
+
+### Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/nikhil-tandon-analytics/
-
-<!--
-**nikhiltandon-ds/nikhiltandon-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
