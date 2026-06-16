@@ -4,6 +4,12 @@
 
 B.Com (Hons) graduate transitioning into Data Analytics with experience in Finance, Marketing Analytics, Business Intelligence, and Data Visualization.
 
+## Live Application
+
+🚀 Open Dashboard:
+
+https://retail-rfm-segmentation.streamlit.app
+
 ### Technical Skills
 
 - SQL
